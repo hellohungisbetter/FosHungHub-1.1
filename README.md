@@ -1,15 +1,15 @@
-# ☄️ FosHungHub| V1.1
+# ☄️ FosHungHub| V1.1 BETA
 
 This Hub Used Rayfield Library You Can Find More At [Here](https://docs.sirius.menu/rayfield/configuration/booting-library)
 FosHungHub Support All Games And Easy Cheat Many Games However, l Will Update This Script To Fixing Bugs
 
 ### ❗ Notice
-This hub Can Having Issues Or Errors! You Add Friend Founder For Fixing Some Issues Here The  [Profile](https://www.roblox.com/users/5364222061/profile)
+This Hub Is Still In Verison 1.1 BETA Please Careful Some Issues Can Crash The Game!
 
 
 # 👋 Introduction
 
-First You Need Executor If You Dont Have Please Click Link Download To Install Some Executor
+Lets Get Started With New Powerful Hub! ✨
 ```lua
 Not Done Yet
 ```
